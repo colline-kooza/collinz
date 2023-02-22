@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.section-1{
+    color: rgb(255, 247, 247);
+    background: linear-gradient(to left, brown,black);
+    padding: 100px;
+    height: 50vh;
+    text-align: center;
+}
+.section-2{
+    color: aqua;
+    background: linear-gradient(45deg,rgb(0, 255, 68),black);
+    padding: 100px;
+    height: 50vh;
+    text-align: center;
+}
+.section-3{
+    color: blue;
+    background:url(./wallpaper.jpg) ;
+   background-size: cover;
+    height: 50vh;
+    text-align: center;
+}
+.section-4{
+    color: brown;
+    background:linear-gradient(30deg,rgba(66, 3, 255, 0.118),rgba(14, 146, 124, 0.346)),url(./wallpaper.jpg);
+    background-size: cover;
+    height: 50vh;
+    text-align: center;
+}
+
+
+
+
+
+
